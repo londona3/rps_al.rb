@@ -14,3 +14,5 @@ def total_with_grat(bill_amount)
 end
 
 puts total_with_grat(bill_amount)
+
+#the end
